@@ -2,6 +2,8 @@
 
 https://warm-fjord-29917.herokuapp.com/homepage
 
+### Deliverable ###
+
 Sam has been saving all his money and now wants to create an online store. And you're going to help him.
 
 Your job is to find at least twenty products for him to sell. Then create a database for those products. Next, create a web application to serve as a shopping cart for the online store.
@@ -14,9 +16,7 @@ The user should be able to browse the list, see product details and add the prod
 
 The site must use Bootstrap and include a navbar which shows on all pages when the user is logged in.
 
-Plan your site first!!
-
-So, you should have the following pages:
+You should have the following pages:
 
 Product List Page
 Product Details Page
@@ -27,7 +27,6 @@ Login levels for users and administrators. Administrators can add and edit produ
 User's name and number of items in their cart should appear on every page. Optionally you can list the total value of their cart.
 Sites should charge shipping on every order but offer free shipping for orders > $50.00.
 Search form in the navbar which allows the user to search for items in the store or their order history. You can decide how you want to present the results. User should be able to search for products containing any or all the words entered.
--------------------------
 
 Change Request: Add an option to add multiple Admins. 
 
