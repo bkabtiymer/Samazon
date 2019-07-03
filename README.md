@@ -19,13 +19,20 @@ The site must use Bootstrap and include a navbar which shows on all pages when t
 You should have the following pages:
 
 Product List Page
+
 Product Details Page
+
 Shopping Cart Page that shows all the items in the shopping cart
+
 Order Confirmation  that shows the total amount of the items ordered. Users should receive an email confirmation of their order which details items purchased and total cost.
+
 User Details page that shows the user information and their order history
+
 Login levels for users and administrators. Administrators can add and edit products and change prices.
+
 User's name and number of items in their cart should appear on every page. Optionally you can list the total value of their cart.
 Sites should charge shipping on every order but offer free shipping for orders > $50.00.
+
 Search form in the navbar which allows the user to search for items in the store or their order history. You can decide how you want to present the results. User should be able to search for products containing any or all the words entered.
 
 Change Request: Add an option to add multiple Admins. 
